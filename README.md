@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# E-Commerce Website 💸🛒
 
-## Project info
+## Overview
+This is a fully responsive E-Commerce website built using **HTML**, **CSS**, and **JavaScript** during my internship at **Brainwave Matrix Solutions**. The site offers a smooth user interface with essential features for a shopping platform, demonstrating front-end web development skills and UI/UX design principles.
 
-**URL**: https://lovable.dev/projects/31d4bb6a-3b7d-4031-9b94-70b41c21ac58
+## 🔧 Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (DOM manipulation, Event Handling)
 
-## How can I edit this code?
+## ✨ Features
+- Home Page with product showcase
+- Product Cards with images, descriptions, and prices
+- Add to Cart functionality
+- Responsive Design for Mobile & Desktop
+- Smooth navigation and animated interactions
 
-There are several ways of editing your application.
+## 📸 Screenshots
+>![Screenshot 2025-04-19 094327](https://github.com/user-attachments/assets/a68c0336-e36f-4efc-9ab0-e2712f1901db)
 
-**Use Lovable**
+>![image](https://github.com/user-attachments/assets/9e6b94fa-75f0-4e74-b791-0a6011d85674)
+>
+>![image](https://github.com/user-attachments/assets/614a4f9d-3fcd-40f2-81aa-240f1df5d944)
+>
+>![image](https://github.com/user-attachments/assets/c7862ec5-b511-47e9-8f5f-70780e7b703f)
+>
+>![image](https://github.com/user-attachments/assets/3d60b8d8-0f44-4716-9825-adeeea721382)
+>
+>![image](https://github.com/user-attachments/assets/330d9366-4e29-4c23-9b1b-447df4e4791f)
+>
+>![image](https://github.com/user-attachments/assets/7d85d840-c705-4627-b90c-2f9de6d5a9ee)
+>
+>![image](https://github.com/user-attachments/assets/6a982686-6a01-4329-aa24-b74ce16d7e5b)
+>
+>![image](https://github.com/user-attachments/assets/174079f8-e5e8-4605-a6fd-fc464a73af5b)
+>
+>![image](https://github.com/user-attachments/assets/c264a30c-b28c-4fc0-89d8-2de76d8a2f51)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/31d4bb6a-3b7d-4031-9b94-70b41c21ac58) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/31d4bb6a-3b7d-4031-9b94-70b41c21ac58) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
